@@ -2,6 +2,10 @@
 
 This repository contains a Sales Dashboard developed using Power BI. The dashboard provides comprehensive insights into sales performance and profitability for our organization. It offers interactive visualizations and analytics that allow stakeholders to make data-driven decisions.
 
+## Overview
+![alt text](https://github.com/Anshu3721/Sales_Dashboard/blob/main/dashboard.png)
+
+
 ## Features
 
 The Sales Dashboard includes the following key features:
